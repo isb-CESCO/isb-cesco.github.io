@@ -1,0 +1,11 @@
+div.menubar > a {
+    font-size: 32px;
+    margin: 0 16px;
+
+    color: gray;
+    text-decoration: none;
+    transition: 0.4s;
+}
+div.menubar > a:hover {
+    color: black;
+}
